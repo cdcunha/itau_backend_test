@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItauBackend", "ItauBackend\ItauBackend.csproj", "{6A62EF67-26E8-4DA7-BD2C-F91686F014A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItauBackend.Test", "ItauBackend.Test\ItauBackend.Test.csproj", "{8A73598D-D006-4619-AC5B-BD92531BB6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A62EF67-26E8-4DA7-BD2C-F91686F014A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A62EF67-26E8-4DA7-BD2C-F91686F014A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A62EF67-26E8-4DA7-BD2C-F91686F014A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A62EF67-26E8-4DA7-BD2C-F91686F014A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A73598D-D006-4619-AC5B-BD92531BB6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A73598D-D006-4619-AC5B-BD92531BB6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A73598D-D006-4619-AC5B-BD92531BB6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A73598D-D006-4619-AC5B-BD92531BB6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD7EF4F-058F-4E8D-925A-98A8940936D7}
+	EndGlobalSection
+EndGlobal
